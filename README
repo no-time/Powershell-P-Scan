@@ -1,0 +1,7 @@
+README
+
+This is just a quick port scanner for powershell. I wrote this because I was not allowed to use nMap in an enterprise environment.
+To note this is MUCH slower than nMap or other scanners, because it is running through powershell, but it does an okay job of 
+checking to see if a port is open or closed. 
+
+Feel free to modify, module, parameterize or edit to make this a bit more portable. 
